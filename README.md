@@ -1,4 +1,4 @@
-# AS5600--Analog_angle_reading
+# AS5600--ADC_angle
 ### Lectura de ángulo analógico desde sensor AS5600 (salida OUT)
   - Lee directamente la salida analógica del AS5600 usando un pin ADC (GP26).
   - Convierte el valor leído (0–1023) en un ángulo equivalente entre 0° y 360°.
