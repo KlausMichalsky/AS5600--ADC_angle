@@ -1,7 +1,7 @@
 // ========================================================================
-//     🔸 A S 5 6 0 0  -  A N A L O G   A N G L E  R E A D I N G 🔸 
+//                 🔸 A S 5 6 0 0  -  A D C   A N G L E 🔸 
 // ========================================================================
-//  Archivo    : AS5600--Analog_angle_reading.ino
+//  Archivo    : AS5600--ADC_angle.ino
 //  Autor      : Klaus Michalsky
 //  Fecha      : Feb-2026
 //
