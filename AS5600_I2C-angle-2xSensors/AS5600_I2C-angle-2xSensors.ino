@@ -1,7 +1,7 @@
 // ========================================================================
-//      🔸 A S 5 6 0 0  -  I 2 C   A N G L E   2x   S E N S O R S 🔸
+//      🔸 A S 5 6 0 0  -  I 2 C   A N G L E   2 x S E N S O R S 🔸
 // ========================================================================
-//  Archivo    : AS5600-I2C_angle_2xSensors.ino
+//  Archivo    : AS5600_I2C-angle-2xSensors.ino
 //  Autor      : Klaus Michalsky
 //  Fecha      : Feb-2026
 //
